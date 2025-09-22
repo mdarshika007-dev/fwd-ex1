@@ -116,10 +116,9 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 </body>
 </html>
 ##OUTPUT
-ex1/fwd-ex1/Screenshot (39).png
-ex1/fwd-ex1/Screenshot (40).png
 
-
+![alt text](<Screenshot (40).png>)
+![alt text](<Screenshot (39).png>)
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
 
