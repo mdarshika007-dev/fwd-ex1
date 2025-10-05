@@ -115,9 +115,10 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 </body>
 </html>
-##OUTPUT
-![alt text](<../Screenshot (39).png>)
-![alt text](<../Screenshot (40).png>)
+~~~
+## OUTPUT:
+![alt text](<Screenshot (39).png>)
+![alt text](<Screenshot (40).png>)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
